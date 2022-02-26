@@ -14,7 +14,7 @@ and forecast cases for the coming year.
 In this github, we will study the LSTM attention model.
 
 ## Data
-WHO Flunet1 https://www.who.int/tools/flunet data is a web-based platform for virological surveillance of influenza around
+WHO Flunet [Dataset](https://www.who.int/tools/flunet) data is a web-based platform for virological surveillance of influenza around
 the world. This data at the country level is open to the public and is updated on a weekly
 
 
