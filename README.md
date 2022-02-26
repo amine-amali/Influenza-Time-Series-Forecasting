@@ -14,18 +14,15 @@ and forecast cases for the coming year.
 In this github, we will study the LSTM attention model.
 
 ## Data
-WHO Flunet [Dataset](https://www.who.int/tools/flunet) data is a web-based platform for virological surveillance of influenza around
-the world. This data at the country level is open to the public and is updated on a weekly
-
-
-basis. The virology data includes counts of influenza virus detection and reports throughout the
+WHO Flunet [Dataset](https://www.who.int/tools/flunet) is a web-based platform for virological surveillance of influenza around
+the world. This data at the country level is open to the public and is updated on a weekly basis. 
+The virology data includes counts of influenza virus detection and reports throughout the
 world, which aids in the interpretation of epidemiological data. Many academics have utilized
 this data set to investigate the implications of the influenza rate of spread, and some have even
 used it to forecast influenza epidemics in this work, combining this data set with climate data to
 examine the influence of weather and increase influenza transmission rate prediction accuracy.
 The Climate Change Knowledge Portal will be used to collect future climate and historical
-data. This climate data2
-is an online resource that gives users access to global, country-level
+data. This climate data is an online resource that gives users access to global, country-level
 and regional data on climate change and growth. The Minimum - Temperature, Maximum -
 Temperature, and Average - Rainfall information for European countries will be gathered in
 order to look into the influence of these climatic circumstances on influenza reports from the
